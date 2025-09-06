@@ -1,5 +1,5 @@
 import java.util.*;
-import java.util.Scanner;
+
 public class Permutations {
     public static void permutations(int n){
         if (n == 1){
